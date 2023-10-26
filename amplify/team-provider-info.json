@@ -10,16 +10,6 @@
       "StackName": "amplify-amplifyc2c5bcfc588f4-staging-210029",
       "StackId": "arn:aws:cloudformation:eu-west-2:815303937220:stack/amplify-amplifyc2c5bcfc588f4-staging-210029/359e4380-6879-11ee-88a3-0209da65cc36",
       "AmplifyAppId": "d1ayyaqx63d8fi"
-    },
-    "categories": {
-      "auth": {
-        "amp4pingemailonly92bcbc58": {
-          "userPoolId": "eu-west-2_dfhct6h9F",
-          "userPoolName": "userpool4pin-emailonly",
-          "webClientId": "6bsr3m5b2n7sk55lq2vo1gs088",
-          "nativeClientId": "6bsr3m5b2n7sk55lq2vo1gs088"
-        }
-      }
     }
   }
 }
